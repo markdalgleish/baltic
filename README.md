@@ -1,3 +1,5 @@
+[ ![Codeship Status for markdalgleish/baltic](https://www.codeship.io/projects/2c1da800-2c3d-0132-a11a-4a66824cdbdc/status)](https://www.codeship.io/projects/38771)
+
 # Baltic
 
 Experimental continuous deployment for [Bespoke.js](https://github.com/markdalgleish/bespoke.js).
