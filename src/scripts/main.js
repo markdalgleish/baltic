@@ -5,7 +5,7 @@ var bespoke = require('bespoke'),
   touch = require('bespoke-touch'),
   bullets = require('bespoke-bullets'),
   scale = require('bespoke-scale'),
-  hash = require('bespoke-hash'),
+  //hash = require('bespoke-hash'),
   progress = require('bespoke-progress'),
   backdrop = require('bespoke-backdrop'),
   forms = require('bespoke-forms');
@@ -17,7 +17,7 @@ bespoke.from('article', [
   touch(),
   bullets('li, .bullet'),
   scale(),
-  hash(),
+  //hash(),
   progress(),
   backdrop(),
   forms()
