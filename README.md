@@ -4,8 +4,6 @@
 
 Experimental continuous deployment for [Bespoke.js](https://github.com/markdalgleish/bespoke.js).
 
-There's nothing special to see here yet.
-
 ## View slides locally
 
 First, ensure you have the following installed:
