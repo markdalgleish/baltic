@@ -2,7 +2,7 @@
 
 # Baltic
 
-Experimental continuous deployment for [Bespoke.js](https://github.com/markdalgleish/bespoke.js).
+Experimental continuous deployment for [Bespoke.js](https://github.com/markdalgleish/bespoke.js) &mdash; [View slides](http://markdalgleish.github.io/baltic)
 
 ## View slides locally
 
