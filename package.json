@@ -36,6 +36,6 @@
   },
   "scripts": {
     "test": "gulp",
-    "deploy": "rm -rf node_modules/gh-pages/.cache && gulp deploy"
+    "deploy": "gulp deploy"
   }
 }
